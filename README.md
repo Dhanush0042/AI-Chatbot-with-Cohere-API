@@ -1,4 +1,4 @@
-****AI-Chatbot-with-Cohere-API****
+#AI-Chatbot-with-Cohere-API
 
 **📖 Project Overview**
 
