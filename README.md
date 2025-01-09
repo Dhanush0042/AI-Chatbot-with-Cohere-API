@@ -21,7 +21,7 @@ This is an AI-powered chatbot built using Python and the Cohere API. It utilizes
 1. Clone this repository:
 
        git clone https://github.com/yourusername/ai-chatbot-cohere.git
-        cd ai-chatbot-cohere
+       cd ai-chatbot-cohere
 
 2. Install the required Python packages:
 
